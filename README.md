@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, off-by-one error in Java. The `Bug.java` file contains the erroneous code, while `BugSolution.java` provides a corrected version.
